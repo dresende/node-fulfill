@@ -1,0 +1,17 @@
+{
+	"author"      : "Diogo Resende <dresende@thinkdigital.pt>",
+	"name"        : "fulfill",
+	"description" : "NodeJS Promises/A+",
+	"keywords"    : [
+		"promise",
+		"then"
+	],
+	"version"     : "0.0.1",
+	"license"     : "MIT",
+	"repository"  : "http://github.com/dresende/node-fulfill.git",
+	"main"        : "./lib/fulfill",
+	"engines"     : {
+		"node"      : "*"
+	},
+	"analyse"     : false
+}
